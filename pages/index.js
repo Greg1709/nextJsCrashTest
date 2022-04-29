@@ -2,7 +2,7 @@ import Link from "next/link";
 export default function Home() {
   return (
     <div className={"container px-4 pt-5"}>
-      <h1>Bienvenu sur Code.io</h1>
+      <h1>Bienvenu sur Code.io 2.0</h1>
         <span>Le code communautaire des aficionados de développement web.</span>
         <div className={"row mt-5"}>
             <div className={"col-12 col-sm-6"} style={{minHeight : "200px"}}>
